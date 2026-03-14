@@ -43,7 +43,7 @@ class DiscordNotifier:
             'timestamp': datetime.utcnow().isoformat(),
             'footer': {
                 'text': 'Tiny11 Automated Builder • kelexine',
-                'icon_url': 'https://avatars.githubusercontent.com/u/YOUR_USER_ID'
+                'icon_url': 'https://avatars.githubusercontent.com/u/70432347'
             }
         }
         
