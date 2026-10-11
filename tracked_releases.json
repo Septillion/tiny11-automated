@@ -376,8 +376,21 @@
       "language": "en-us",
       "checksum_sha256": null,
       "size_bytes": null
+    },
+    "msft-playwright-latest-20261011": {
+      "build_id": "msft-playwright-latest-20261011",
+      "build_number": "Latest",
+      "version": "Latest",
+      "title": "Windows 11 Latest",
+      "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_en-us_26300_9457.iso?t=e6c10cf8-23fd-43c9-b7eb-8411750cdc49&P1=1791779156&P2=602&P3=2&P4=VMf5pOvWYCRCip%2frBcO0hk2aEBCjuykKJP9%2biw%2fVl1dxOTUQxC4vdl7%2bFWynAq73vDh8xp6hSu%2f%2f1gtgC48G0pLua4FgybOaafcG4r2usqVCYdBuvSbrFX5IkGcUbztkAxVamzxC6FseNnwhgOjBpRQxKdaVC0xk%2fOsBGVgK4RDMKbGAbGufS34oUBWVvclf6R6cejQgdsXQ21pXHStfjsa2k%2beq%2fNs2gLRAY7KDIWq3nQjbbwrfh7vGQw6Htmtpr2HE1PkyrUjlYNr0wZSQmNzkzVEncJQ%2bUhUQR%2bG4wILIf45FiE7IzKAii6K5l%2bFBGL%2b6bkamGNwp8qupZFSjLg%3d%3d",
+      "detected_date": "2026-10-11T04:25:58.466225",
+      "architecture": "amd64",
+      "channel": "retail",
+      "language": "en-us",
+      "checksum_sha256": null,
+      "size_bytes": null
     }
   },
-  "last_check": "2026-10-04T04:40:18.843445",
-  "check_count": 29
+  "last_check": "2026-10-11T04:25:59.438797",
+  "check_count": 30
 }
